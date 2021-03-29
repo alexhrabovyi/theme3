@@ -1,6 +1,6 @@
 body {
     background-color: rgb(109, 207, 246);
-    background-image: url("/index_img/background.jpg");
+    background-image: url("background.jpg");
     background-repeat: no-repeat;
     background-position: right, bottom;
     background-attachment: fixed;
