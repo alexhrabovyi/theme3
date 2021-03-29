@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(109, 207, 246);
+    background-image: url("/index_img/background.jpg");
+    background-repeat: no-repeat;
+    background-position: right, bottom;
+    background-attachment: fixed;
+}
+nav {
+    text-align: center;
+    margin-top: 200px;
+}
+
+#simple {
+    margin-right: 250px;
+}
+
+.spongebobs {
+    border-style: solid;
+    border-color: rgb(59, 113, 136);
+    border-width: 5px;
+}
+
+#text{
+    margin-top: 100px;
+}

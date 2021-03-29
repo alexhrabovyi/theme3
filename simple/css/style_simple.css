@@ -1,0 +1,33 @@
+h1 {
+    background-color: rgb(165, 42, 42);
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.main_photo {
+    text-align: center;
+}
+
+.main_text {
+    text-align: center;
+    font-size: 18px;
+}
+
+.blue {
+    color: rgb(0, 0, 255);
+}
+
+.images img {
+   border-style: dotted;
+}
+
+.images {
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}

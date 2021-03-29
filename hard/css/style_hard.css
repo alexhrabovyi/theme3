@@ -1,0 +1,79 @@
+/* ----------header styles---------- */
+
+header {
+    text-align: center;
+}
+
+/* ----------body styles---------- */
+
+body {
+    background-color: rgb(153, 9, 9);
+}
+
+/* ----------nav styles---------- */
+
+nav a {
+    text-align: center;
+    display: block;   
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    font-size: 18;
+}
+
+nav table {
+    background-color: rgb(0, 0, 0);
+    padding-top: 20px;
+}
+
+/* ----------main and table styles---------- */
+
+.main {
+    width: 70%;
+    color:rgb(255, 255, 255);
+    font-size: 18px;
+}
+
+table {
+    width: 100%;
+}
+
+/* ----------left side styles---------- */
+
+.left_side {
+    width: 15%;
+    background-color: rgb(125, 9, 9); 
+}
+
+.left_side ul, a {
+    list-style: none;
+    color: rgb(233, 91, 17);
+    font-size: 18px; 
+}
+
+/* ----------right side styles---------- */
+
+.right_side {
+    width: 15%;
+    text-align: center;
+    background-color: rgb(227, 221, 221);
+    font-size: 18px;
+}
+
+hr {
+    width: 50%;
+    color: rgb(189, 189, 189);
+}
+
+h3 {
+    background-color: rgb(189, 189, 189);
+}
+
+/* ----------footer styles---------- */
+
+footer {
+    text-align: center;
+    color:rgb(255, 255, 255);
+    background-color: rgb(233, 91, 17);
+    font-size: 20px;
+}
